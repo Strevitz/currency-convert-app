@@ -1,5 +1,6 @@
 {
   "name": "currency-convert-app",
+  "homepage": "https://strevitz.github.io/currency-convert-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
